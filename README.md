@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi i am giannistamoulakatos
 
-<!--
-**giannistamoulakatos/giannistamoulakatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What i Do
+<li>💻 Role: Im ungraduated university student</li>
+<li>🧠 Focus: I focus to AI and CyberSecurity developing and penetration testing</li>
+<li>🛠️ Stack: Python, Java, C++, C, MySQL, PHP, Arduino, Docker, Wordpress, Netdiscover, NMAP, Metasploit, HTML5, CSS, bash</li>
 
-Here are some ideas to get you started:
+## 💡 About Me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I take care of solving programming problems so that there is a correct solution
+
+## 🧪 Selected Projects
+
+[Detection Dangerous items with AI](https://github.com/giannistamoulakatos/Detection_dangerous_items_with_AI) The project is Building Elements of AI Seminar. The purpose is detecting the dangerous items in one room and send the data with webhook encryption to police
+
+## 🤝 My accounts
+
+[Linkedin](https://www.linkedin.com/in/%CE%B3%CE%B9%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%83%CF%84%CE%B1%CE%BC%CE%BF%CF%85%CE%BB%CE%B1%CE%BA%CE%AC%CF%84%CE%BF%CF%82-a46364341/)
+
+[Email](mailto:giannistamoulakatos@gmail.com)
+
