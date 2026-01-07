@@ -1,7 +1,7 @@
 # Hi i am giannistamoulakatos
 
 ## 🚀 What i Do
-<li>💻 Role: Im ungraduated university student</li>
+<li>💻 Role: Im undergraduate university student</li>
 <li>🧠 Focus: I focus to AI and CyberSecurity developing and penetration testing</li>
 <li>🛠️ Stack: Python, Java, C++, C, MySQL, PHP, Arduino, Docker, Wordpress, Netdiscover, NMAP, Metasploit, HTML5, CSS, bash</li>
 
