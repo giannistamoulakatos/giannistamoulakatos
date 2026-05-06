@@ -11,7 +11,7 @@ I take care of solving programming problems so that there is a correct solution
 
 ## 🧪 Selected Projects
 
-[Detection Dangerous items with AI](https://github.com/giannistamoulakatos/Detection_dangerous_items_with_AI) The project is Building Elements of AI Seminar. The purpose is detecting the dangerous items in one room and send the data with webhook encryption to police
+[Detection Dangerous items with AI](https://github.com/giannistamoulakatos/Detection_dangerous_items_with_AI) The project is Building Elements of AI Seminar. The purpose is detecting the dangerous items in one room and send the data with webhook encryption to police '/n'
 [Avoiding Traffic System With IoT](https://github.com/giannistamoulakatos/Avoiding_trafic_system_with_iot) The project is my dregree assigment in ionian university. The purpose is avoiding traffic accidents and immediate rescue of the people
 
 ## 🤝 My accounts
